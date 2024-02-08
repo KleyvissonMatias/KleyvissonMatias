@@ -1,7 +1,3 @@
-Claro, aqui está um exemplo de README para um perfil do GitHub em português:
-
----
-
 # Olá! 👋
 
 ## Sobre Mim
