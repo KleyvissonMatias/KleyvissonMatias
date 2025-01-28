@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a senior backend developer with experience in a variety of technologies, including Java, .NET (C# and VB.NET), GoLang, and C++. I am always striving to learn and apply the best practices of software engineering to create robust and scalable solutions.
+I am a senior backend developer with experience in a variety of technologies, including Java, Kotlin, .NET (C# and VB.NET), GoLang, and C++. I am always striving to learn and apply the best practices of software engineering to create robust and scalable solutions.
 
 ### Technologies & Tools
 
